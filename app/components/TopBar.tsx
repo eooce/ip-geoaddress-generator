@@ -38,7 +38,7 @@ export function TopBar({ onInboxOpen }: TopBarProps) {
           aria-label="GitHub"
           onClick={() =>
             window.open(
-              "https://github.com/GuooGaii/ip-geoaddress-generator",
+              "https://github.com/eooce/ip-geoaddress-generator",
               "_blank"
             )
           }
